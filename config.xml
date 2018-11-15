@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+    <name>Ahorcado</name>
+    <description>
+        A blank PhoneGap app.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
